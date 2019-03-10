@@ -1,4 +1,4 @@
-# Machine_Learning_homework
+# Machine_Learning_homeworks
 
 This repository contains the homework that I did for "Machine Learning and Artificial Intelligence" course held on Politecnico di Torino in academic year 2018/2019.
 
